@@ -1,14 +1,111 @@
 <h1 align="center">Hi 👋, I'm Anuj Kashyap</h1>
-<h3 align="center">A passionate Android developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anujkashyap18" alt="anujkashyap18" /> </p>
-
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
-
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujkashyap18&show_icons=true" alt="anujkashyap18" /></p>
+<h3 align="center">
+AI Engineer | Android & Flutter Developer | Building Intelligent AI Products 🚀
+</h3>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/anuj roxxo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="anuj roxxo" height="30" width="30" /></a>
-<a href="https://fb.com/anujkashyap35@yahoo.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anujkashyap35@yahoo.in" height="30" width="30" /></a>
-<a href="https://instagram.com/mr.anuj18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.anuj18" height="30" width="30" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anujkashyap18&label=Profile%20Views&color=0e75b6&style=flat" alt="anujkashyap18" />
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🤖 Currently working as an **AI Engineer**
+- ✈️ Building an **AI-powered Travel Agent System**
+- 📱 Almost **6 years of experience** in Android & Flutter Development
+- 🧠 Exploring **LLMs, Generative AI, RAG, AI Agents & Agentic Workflows**
+- 🌱 Currently learning **LangChain, MCP, Vector Databases and System Design**
+- 💬 Ask me about **AI, Android, Flutter, Kotlin, Python and Mobile Development**
+- 🎯 Goal: Build impactful **AI-powered products** and become a strong AI Engineer
+- 📫 Reach me on **LinkedIn / GitHub / Instagram**
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="python"/>
+
+<img src="https://skillicons.dev/icons?i=openai" height="45" alt="openai"/>
+
+</p>
+
+### Currently Exploring
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents
+- 🔗 LangChain
+- 📚 RAG (Retrieval Augmented Generation)
+- 🗄️ Vector Databases
+- 🔌 MCP (Model Context Protocol)
+- ✨ Prompt Engineering
+- 🔄 Agentic Workflows
+- 🌐 AI APIs & Integrations
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+
+</p>
+
+### 📱 Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=flutter" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=dart" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+
+</p>
+
+### 🌐 Other Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```text
+🤖 AI Engineering
+     ↓
+🧠 LLMs & Generative AI
+     ↓
+🔗 LangChain & RAG
+     ↓
+🤖 AI Agents
+     ↓
+✈️ AI Travel Assistant
+     ↓
+🚀 Production Ready AI Products
